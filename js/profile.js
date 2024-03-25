@@ -26,3 +26,7 @@ function gr(){
 function erro(){
   alert('erro 404')
 }
+function rt(){
+  window.location.href="eleph.html"
+alert('redicionamento para elephantbet')
+}
